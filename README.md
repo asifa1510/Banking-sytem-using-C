@@ -13,6 +13,7 @@ standard library is used and the whole concept revolves arounf file handling in 
 
 # LICENSE:
 This project is licensed under the [MIT License](LICENSE).
+
 Please see the [LICENSE](LICENSE) file for more details.
 
 For questions regarding the licensing terms or any use of the code, please contact the details given below:
