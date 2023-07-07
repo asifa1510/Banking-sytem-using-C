@@ -17,6 +17,7 @@ This project is licensed under the [MIT License](LICENSE).
 Please see the [LICENSE](LICENSE) file for more details.
 
 For questions regarding the licensing terms or any use of the code, please contact the details given below:
+
 Licensing Authority:[MIT License]
 
 Contact Email: [asifareh8@gmail.com]
