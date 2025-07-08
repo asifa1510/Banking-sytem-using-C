@@ -1,24 +1,37 @@
-# BankingC  Repository 1
-Banking System using C 
+BankingC
 
-# FEATURES:
-login, making changes in account informations, deleting account, creating account, money deposit , money withdraw.
+A simple banking system built with C.
 
-# ABOUT:
-This particular repository is created to fullfil the banking system applications. It makes it easy for the users to access their accounts and check their account informations and also make neeful decisions.
+Features
 
-# PROGRAM:
-C programming language is used here. Since it has faster response it would be really helpful for these kinds of real-time applications.
-standard library is used and the whole concept revolves arounf file handling in c.
 
-# LICENSE:
-This project is licensed under the [MIT License](LICENSE).
 
-Please see the [LICENSE](LICENSE) file for more details.
 
-For questions regarding the licensing terms or any use of the code, please contact the details given below:
 
-Licensing Authority:[MIT License]
+Login
 
-Contact Email: [asifareh8@gmail.com]
 
+
+Manage account information
+
+
+
+Create/delete accounts
+
+
+
+Deposit/withdraw money
+
+About
+
+This repository provides a fast and efficient banking system application using C, leveraging file handling for real-time account management.
+
+Program
+
+Built with C for fast performance, utilizing standard libraries and file handling.
+
+License
+
+Licensed under the MIT License. See the LICENSE file for details.
+
+For licensing inquiries, contact: [asifareh8@gmail.com]
