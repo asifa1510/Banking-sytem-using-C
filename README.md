@@ -1,8 +1,8 @@
-### BankingC
+**BankingC**
 
-A simple banking system built with C.
 
-### Features
+-->
+*Features*
 
 
 
@@ -21,18 +21,16 @@ Create/delete accounts
 
 
 Deposit/withdraw money
-
-### About
+-->
+*About*
 
 This repository provides a fast and efficient banking system application using C, leveraging file handling for real-time account management.
-
-### Program
+-->
+*Program*
 
 Built with C for fast performance, utilizing standard libraries and file handling.
 
-
-### License
-
+-->
+*License*
 Licensed under the MIT License. See the LICENSE file for details.
 
-For licensing inquiries, contact: [asifareh8@gmail.com]
